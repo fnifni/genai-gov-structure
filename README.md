@@ -10,3 +10,8 @@ The state of AI governance in Japan ver. 1.1  [English version](https://www.meti
 
 我が国のAIガバナンスの在り方 ver. 1.1 [日本語版](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/2021070901_report.html)
 
+## 生成AIガバナンスに係るドキュメントの相関関係図
+![genai-gov-doc-structure.png](./contents/genai-gov-doc-structure.png)
+
+## 生成AIのリスクを検討する際に役立つ簡易的なモデル
+![genai-ez-model.png](./contents/genai-ez-model.png)
